@@ -1,0 +1,9 @@
+# History and session data files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Compiled documents
+docs/
+*.html
